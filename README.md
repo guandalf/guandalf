@@ -3,6 +3,7 @@
 - 💞️ I’m looking to collaborate on making world a better place (especially) for kids
 - 😡 Otherwise I hate humankind (with a few exceptions)
 - 📫 How to reach out to me: be inventive
+- 🎵 Playing clarinet
 
 <!---
 guandalf/guandalf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
